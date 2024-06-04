@@ -19,7 +19,7 @@ CyberCobra is a tool made to exploit the ticket controller vulnerability in mezz
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/CyberCobra.git
+    git clone https://github.com/WinQz/CyberCobra-MezzVuln/CyberCobra.git
     cd CyberCobra
 
 ## Configuration
